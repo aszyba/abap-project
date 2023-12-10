@@ -1,0 +1,6 @@
+Description	
+Language	E
+
+Number	Message
+000	Data przej#cia nie mo#e by# wcze#niejsza ni# data transportu.
+001	Sprawd# stany magazynowe. Nie masz wystarczaj#cej ilo#ci odpadów.
