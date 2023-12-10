@@ -1,0 +1,14 @@
+Text-symbols
+001	Zapisz
+002	Zapisz
+003	Numer KPO:
+
+Selection-text
+NR_KPO	Numer KPO
+P_INST	Instalacja
+P_ODZYSK	Odzysk lub unieszkodliwienie
+P_PRZETW	Przetworzenie
+P_P_MASA	Masa odpadów
+P_WYD	Instalacja
+P_WYDA	Wydanie
+P_W_MASA	Masa odpadów

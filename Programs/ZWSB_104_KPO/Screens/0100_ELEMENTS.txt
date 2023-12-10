@@ -1,0 +1,68 @@
+GV_DANE_PRZEKAZUJACEGO	Dane przekazuj#cego odpady
+GV_BP_ID	Numer kontrahenta
+GS_PRZEKAZUJACY-PARTNER	__________
+GV_NAZWA_PRZEKAZUJACEGO	Nazwa przekazuj#cego odpady
+GS_PRZEKAZUJACY-NAME_ORG1	________________________________________
+GV_NR_BDO	Numer rejestrowy (BDO)
+GS_PRZEKAZUJACY-IDNUMBER	____________________________________________________________
+GV_MIASTO	Miasto
+GS_PRZEKAZUJACY-CITY1	________________________________________
+GV_KOD_POCZTOWY	Kod pocztowy
+GS_PRZEKAZUJACY-POST_CODE1	__________
+GV_ULICA	Ulica
+GS_PRZEKAZUJACY-STREET	____________________________________________________________
+GV_NR_DOMU	Numer domu
+GS_PRZEKAZUJACY-HOUSE_NUM1	__________
+GV_KRAJ	Kraj
+GS_PRZEKAZUJACY-COUNTRY	___
+GV_DANE_TRANSPORTUJACEGO	Dane transportuj#cego odpady
+GV_BP_ID_TRANS	Numer kontrahenta
+GS_TRANSPORTUJACY-PARTNER	__________
+GV_NAZWA_TRANS	Nazwa transportuj#cego odpady
+GS_TRANSPORTUJACY-NAME_ORG1	________________________________________
+GV_NR_BDO_TRANS	Numer rejestrowy (BDO)
+GS_TRANSPORTUJACY-IDNUMBER	____________________________________________________________
+GV_MIASTO_TRANS	Miasto
+GS_TRANSPORTUJACY-CITY1	________________________________________
+GV_KOD_POCZTOWY_TRANS	Kod pocztowy
+GS_TRANSPORTUJACY-POST_CODE1	__________
+GV_ULICA_TRANS	Ulica
+GS_TRANSPORTUJACY-STREET	____________________________________________________________
+GV_NR_DOMU_TRANS	Numer domu
+GS_TRANSPORTUJACY-HOUSE_NUM1	__________
+GV_KRAJ_TRANS	Kraj
+GS_TRANSPORTUJACY-COUNTRY	___
+GV_DANE_PRZEJMUJACEGO	Dane przejmuj#cego odpady
+GV_BP_ID_PRZEJM	Numer kontrahenta
+GS_PRZEJMUJACY-PARTNER	__________
+GV_NAZWA_PRZEJM	Nazwa przejmuj#cego odpady
+GS_PRZEJMUJACY-NAME_ORG1	________________________________________
+GV_NR_BDO_PRZEJM	Numer rejestrowy (BDO)
+GS_PRZEJMUJACY-IDNUMBER	____________________________________________________________
+GV_MIASTO_PRZEJM	Miasto
+GS_PRZEJMUJACY-CITY1	________________________________________
+GV_KOD_POCZTOWY_PRZEJM	Kod pocztowy
+GS_PRZEJMUJACY-POST_CODE1	__________
+GV_ULICA_PRZEJM	Ulica
+GS_PRZEJMUJACY-STREET	____________________________________________________________
+GV_NR_DOMU_PRZEJM	Numer domu
+GS_PRZEJMUJACY-HOUSE_NUM1	__________
+GV_KRAJ_PRZEJM	Kraj
+GS_PRZEJMUJACY-COUNTRY	___
+GV_DANE_ODPADU	Dane dotycz#ce odpadów
+ZWSB_104_KPO-KOD_ODPADU	Kod odpadu
+ZWSB_104_KPO-KOD_ODPADU	_______________
+ZWSB_104_KPO-MASA_ODPADOW	Masa odpadów
+ZWSB_104_KPO-MASA_ODPADOW	_______________
+ZWSB_104_KPO-NR_REJ	Numer rejestracyjny #rodka transportu
+ZWSB_104_KPO-NR_REJ	_______________
+GV_DANE_TRANSPORT	Dane dotycz#ce transportu
+ZWSB_104_KPO-DATA_TRANS	Data rozpocz#cia transportu
+ZWSB_104_KPO-DATA_TRANS	_______________
+ZWSB_104_KPO-GODZINA_TRANS	Godzina rozpocz#cia transportu
+ZWSB_104_KPO-GODZINA_TRANS	_______________
+ZWSB_104_KPO-DATA_PRZEJ	Data przej#cia odpadów
+ZWSB_104_KPO-DATA_PRZEJ	_______________
+ZWSB_104_KPO-GODZINA_PRZEJ	Godzia przej#cia odpadów
+ZWSB_104_KPO-GODZINA_PRZEJ	_______________
+OK_CODE	____________________

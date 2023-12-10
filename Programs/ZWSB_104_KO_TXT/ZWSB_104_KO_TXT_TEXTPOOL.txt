@@ -1,0 +1,10 @@
+Text-symbols
+001	Tabela zaktualizowana pomy#lnie
+002	Wyst#pi# problem
+003	#adowanie pliku
+004	Wybór tabeli
+
+Selection-text
+KOD_ODP	Katalog odpadów
+PR_PRZET	Odzysk i unieszkodliwianie
+P_FILE	Wybierz plik

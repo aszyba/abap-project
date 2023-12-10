@@ -1,0 +1,14 @@
+Text-symbols
+001	Lista Kart Przekazania Odpadów
+002	Przetwórz
+003	Wydaj
+004	Wybierz co chcesz zrobi# z odpadem
+
+Selection-text
+P_CH_BOX	Tylko karty nieprzetworzone
+S_D_PRZE	D       .
+S_D_ROZP	D       .
+S_KOD	D       .
+S_NR_KPO	D       .
+S_PRZEJ	D       .
+S_PRZEK	D       .
